@@ -23,4 +23,4 @@ I have a deep **passion for football ⚽**, but you can also find me playing **P
 ![StatsBomb](https://img.shields.io/badge/StatsBomb-FF5722?style=for-the-badge) 
 ![Wyscout](https://img.shields.io/badge/Wyscout-2196F3?style=for-the-badge)
 
-I love combining my analytical skills with creativity to generate actionable insights and make data-driven decisions fun and impactful.
+I am always eager to learn, embrace new challenges, and apply my analytical skills to solve complex problems.
