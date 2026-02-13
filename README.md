@@ -21,7 +21,7 @@ I have a deep **passion for football ⚽**, but you can also find me playing **P
 
 ### Data Science & Machine Learning
 ![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-6FCF97?style=for-the-badge)
-![Optimization - Genetic Algorithms](https://img.shields.io/badge/Optimization-(Genetic_Algorithms)-F57C00?style=for-the-badge)
+![Optimization - Genetic Algorithms](https://img.shields.io/badge/Optimization-Genetic_Algorithms-F57C00?style=for-the-badge)
 ![Clustering](https://img.shields.io/badge/Clustering-8E44AD?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-3498DB?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-6E40C9?style=for-the-badge)
