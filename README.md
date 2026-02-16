@@ -1,6 +1,6 @@
 # Hi there, I'm Gonçalo 👋
 
-I hold a **Master in Engineering and Management of Information Systems** from **Universidade do Minho** and a **Master in Data Applied to Big Data** from **Universidad Católica San Antonio de Murcia**.  
+I hold a **Master in Engineering and Management of Information Systems** from **Universidade do Minho** and a **Master in Big Data Applied to Football** from **Universidad Católica San Antonio de Murcia**.  
 
 I have **2 years of experience as a Data Scientist** and am currently working as a **Data Scientist at SC Braga**, applying predictive modeling, feature engineering, and optimization techniques, and now contributing to **football-related projects** to support scouting and team analysis.  
 
