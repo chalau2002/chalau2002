@@ -2,7 +2,7 @@
 
 I hold a **Master in Engineering and Management of Information Systems** from **Universidade do Minho** and a **Master in Big Data Applied to Football** from **Universidad Católica San Antonio de Murcia**.  
 
-I have **2 years of experience as a Data Scientist** and am currently working as a **Data Scientist at SC Braga **, building data pipelines, developing internal analytics applications, and contributing to **performance analysis and scouting workflows** to support the coaching and recruitment staff. 
+I have **2 years of experience as a Data Scientist** and am currently working as a **Data Scientist at SC Braga**, building data pipelines, developing internal analytics applications, and contributing to **performance analysis and scouting workflows** to support the coaching and recruitment staff. 
 
 I have a deep **passion for football ⚽**, but you can also find me playing **Pokémon, Mario, or other Nintendo games 🎮**, or enjoying various **sports 🏃**.  
 
