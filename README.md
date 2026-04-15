@@ -27,7 +27,7 @@ I have a deep **passion for football ⚽**, but you can also find me playing **P
 
 ### Data Processing
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-43A047?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API_Integration-0288D1?style=for-the-badge)
+![API Development](https://img.shields.io/badge/API_Development-0288D1?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-AB47BC?style=for-the-badge)
 ![Async Pipelines](https://img.shields.io/badge/Async_Pipelines-FF7043?style=for-the-badge)
 
